@@ -1,6 +1,4 @@
-def my_collect
-  students = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-  language = ['ruby', 'javascript', 'python', 'objective-c']
+def my_collect(language)
   
 counter = 0
   while language.length > counter 
